@@ -4,7 +4,9 @@
  * @returns {numbers} odds - 홀수로 이루어진 배열
  */
 function solution(numbers) {
-  return numbers.filter((x) => x % 2 === 1);
+  // 코드 작성
+  let answer;
+  return answer;
 }
 
 export default solution;

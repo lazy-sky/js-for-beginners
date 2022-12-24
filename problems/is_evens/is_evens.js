@@ -4,7 +4,9 @@
  * @returns {boolean}
  */
 function solution(numbers) {
-  return numbers.every((x) => x % 2 === 0);
+  // 코드 작성
+  let answer;
+  return answer;
 }
 
 export default solution;

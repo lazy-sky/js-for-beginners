@@ -1,0 +1,28 @@
+{
+  "name": "js-for-beginners",
+  "version": "1.0.0",
+  "description": "자바스크립트 초심자들을 위한 문제 저장소",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazy-sky/js-for-beginners.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "lazy-sky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lazy-sky/js-for-beginners/issues"
+  },
+  "homepage": "https://github.com/lazy-sky/js-for-beginners#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.20.7",
+    "@babel/core": "^7.20.7",
+    "@babel/preset-env": "^7.20.2",
+    "jest": "^29.3.1"
+  }
+}

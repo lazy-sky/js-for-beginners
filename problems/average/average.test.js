@@ -1,4 +1,4 @@
-import solution from "./only_odds";
+import solution from "./average";
 
 test("1부터 10까지의 수의 평균", () => {
   expect(solution([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])).toEqual(5.5);
